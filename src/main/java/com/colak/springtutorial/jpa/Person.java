@@ -1,4 +1,4 @@
-package com.colak.springjpatutorial.jpa;
+package com.colak.springtutorial.jpa;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
